@@ -1,0 +1,9 @@
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\bin\Debug\ConstructionCalc.exe
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\bin\Debug\ConstructionCalc.pdb
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\obj\Debug\ConstructionCalc.csprojAssemblyReference.cache
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\obj\Debug\ConstructionCalc.Form1.resources
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\obj\Debug\ConstructionCalc.Properties.Resources.resources
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\obj\Debug\ConstructionCalc.csproj.GenerateResource.cache
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\obj\Debug\ConstructionCalc.csproj.CoreCompileInputs.cache
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\obj\Debug\ConstructionCalc.exe
+C:\Users\Server\Documents\GitHub\ConstructionCalc\ConstructionCalc\ConstructionCalc\obj\Debug\ConstructionCalc.pdb
